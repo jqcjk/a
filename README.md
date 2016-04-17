@@ -1,4 +1,4 @@
 # a.github.io
 
 
-www,jqcjk.com
+www.jqcjk.com
